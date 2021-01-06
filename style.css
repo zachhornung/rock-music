@@ -1,0 +1,22 @@
+header {
+    background-color: rgb(184, 40, 40);
+    text-align: center;
+
+}
+nav {
+    display: inline;
+}
+footer {
+    background-color: darkred;
+}
+main {
+    color: chartreuse;
+}
+.main {
+    width: 800px;
+    height: 300px;
+}
+.smaller {
+    width: 400px;
+    height: 300px;
+}
