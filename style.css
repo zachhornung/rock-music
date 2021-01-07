@@ -3,11 +3,13 @@ header {
     text-align: center;
 
 }
-nav {
+li {
     display: inline;
+    border: white
 }
 footer {
     background-color: darkred;
+    color: chartreuse;
 }
 main {
     color: chartreuse;
@@ -15,8 +17,12 @@ main {
 .main {
     width: 800px;
     height: 300px;
+
 }
 .smaller {
     width: 400px;
     height: 300px;
+}
+body {
+    background-color: black;
 }
