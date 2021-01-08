@@ -1,5 +1,4 @@
 
-
 if (favoriteInstrument == 'guitar'){
     document.write('<img src="https://xeroxbus.com.au/wp-content/uploads/2019/02/band-bokeh-close-up-144428-768x512.jpg">')
 } else if (favoriteInstrument == 'bass'){
